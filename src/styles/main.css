@@ -30,10 +30,18 @@ button:hover {
   background: #45a049;
 }
 
+/* Login */
+
 .button-login {
   margin-left: 1%;
 }
 
 .input-login {
   margin-left: -2%;
+}
+
+/* Transactions */
+
+.input-value-currency-converter {
+  width: 95%;
 }
