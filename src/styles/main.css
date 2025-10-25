@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #121212;
+  color: #fff;
+}
+
+.container {
+  max-width: 400px;
+  margin: 50px auto;
+  background: #1e1e1e;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+input, select, button {
+  width: 100%;
+  padding: 10px;
+  margin: 8px 0;
+  border-radius: 5px;
+  border: none;
+}
+
+button {
+  background: #4caf50;
+  color: white;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #45a049;
+}
+
+.button-login {
+  margin-left: 1%;
+}
+
+.input-login {
+  margin-left: -2%;
+}
